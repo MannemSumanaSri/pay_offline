@@ -1,4 +1,4 @@
-📱 Pay Offline – Flutter Offline Payment App
+Pay Offline – Flutter Offline Payment App
 Pay Offline is a simple offline payments app built using Flutter. The app allows users to:
 
 Register and login without internet.
@@ -13,31 +13,31 @@ View transaction history offline.
 
 All transactions are stored locally and work entirely offline.
 
-🚀 Features
-🔐 Secure offline login/signup (Hive storage)
+ Features
+ Secure offline login/signup (Hive storage)
 
-📱 Phone number-based payments (offline)
+ Phone number-based payments (offline)
 
-🔑 PIN-protected transaction confirmation
+ PIN-protected transaction confirmation
 
-🏦 Balance management stored offline
+ Balance management stored offline
 
-🚫 Prevents payment if insufficient balance
+ Prevents payment if insufficient balance
 
-📊 Offline transaction history tracking
+ Offline transaction history tracking
 
-📷 QR generation & scanner planned (optional)
+ QR generation & scanner planned (optional)
 
-📴 Fully offline operation (works without internet)
+ Fully offline operation (works without internet)
 
-📲 Tech Stack
+ Tech Stack
 Flutter (Cross-platform framework)
 
 Hive (Lightweight key-value database)
 
 Mobile Scanner / QR (Optional)
 
-🛠️ Getting Started
+ Getting Started
 Prerequisites:
 Flutter SDK installed
 
@@ -53,7 +53,7 @@ git clone https://github.com/MannemSumanaSri/pay_offline.git
 cd pay_offline
 flutter pub get
 flutter run
-📂 Project Structure
+Project Structure
 css
 Copy
 Edit
@@ -72,23 +72,22 @@ lib/
       ├── check_balance_screen.dart
       ├── qr_generator_screen.dart
       └── qr_scanner_screen.dart
-📈 Future Enhancements
-🔄 Data sync when online
+ Future Enhancements
+ Data sync when online
 
-📤 Export transaction history
+ Export transaction history
 
-📷 QR payments and receipts
+ QR payments and receipts
 
-🛡️ Recipient verification before payment
+ Recipient verification before payment
 
-💳 Balance top-up feature
+ Balance top-up feature
 
-🤝 Contributions
 Contributions are welcome! Fork the repo and submit a pull request.
 
-📄 License
+ License
 This project is licensed under the MIT License.
 See the LICENSE file for details.
 
-📢 Author
+ Author
 Created by Mannem Sumana Sri.
